@@ -1,0 +1,24 @@
+{
+  "name": "eslint-precommit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuanfe/eslint-precommit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuanfe/eslint-precommit/issues"
+  },
+  "homepage": "https://github.com/chuanfe/eslint-precommit#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-plugin-react": "^7.20.0"
+  }
+}
